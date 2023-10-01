@@ -1,0 +1,181 @@
+Year (N),ISO3,Rank N,Score N,FR_country
+2017,NOR,1,"92,4",Norvège
+2017,SWE,2,"91,73",Suède
+2017,FIN,3,"91,08",Finlande
+2017,DNK,4,"89,64",Danemark
+2017,NLD,5,"88,72",Pays-Bas
+2017,CRI,6,"88,07",Costa Rica
+2017,CHE,7,"87,87",Suisse
+2017,JAM,8,"87,27",Jamaïque
+2017,BEL,9,"87,25",Belgique
+2017,ISL,10,"86,97",Islande
+2017,AUT,11,"86,53",Autriche
+2017,EST,12,"86,45",Estonie
+2017,NZL,13,"86,02",Nouvelle-Zélande
+2017,IRL,14,"85,92",Irlande
+2017,LUX,15,"85,28",Luxembourg
+2017,DEU,16,"85,03",Allemagne
+2017,SVK,17,"84,49",Slovaquie
+2017,PRT,18,"84,23",Portugal
+2017,AUS,19,"83,98",Australie
+2017,SUR,20,"83,93",Suriname
+2017,WSM,21,"83,59",Samoa
+2017,CAN,22,"83,47",Canada
+2017,CZE,23,"83,09",République tchèque
+2017,NAM,24,"82,92",Namibie
+2017,URY,25,"82,57",Uruguay
+2017,GHA,26,"82,05",Ghana
+2017,CPV,27,"81,98",Cap-Vert
+2017,LVA,28,"81,38",Lettonie
+2017,ESP,29,"81,31",Espagne
+2017,CYP,30,"80,21",Chypre
+2017,ZAF,31,"79,88",Afrique du Sud
+2017,LIE,32,"79,69",Liechtenstein
+2017,CHL,33,"79,47",Chili
+2017,TTO,34,"79,38",Trinité-et-Tobago
+2017,AND,35,"78,97",Andorre
+2017,LTU,36,"78,63",Lituanie
+2017,SVN,37,"78,3",Slovénie
+2017,XCD,38,"77,9",OECS
+2017,FRA,39,"77,76",France
+2017,GBR,40,"77,74",Royaume-Uni
+2017,BLZ,41,"76,57",Bélize
+2017,BFA,42,"76,15",Burkina Faso
+2017,USA,43,"76,12",États-Unis
+2017,COM,44,"75,67",Comores
+2017,TWN,45,"75,63",Taïwan
+2017,ROU,46,"75,54",Roumanie
+2017,MLT,47,"75,24",Malte
+2017,BWA,48,"75,07",Botswana
+2017,TON,49,"75,03",Tonga
+2017,ARG,50,"74,93",Argentine
+2017,PNG,51,"74,93",Papouasie-Nouvelle-Guinée
+2017,ITA,52,"73,74",Italie
+2017,HTI,53,"73,64",Haïti
+2017,POL,54,"73,53",Pologne
+2017,MRT,55,"73,51",Mauritanie
+2017,MUS,56,"73,33",Maurice
+2017,MDG,57,"73,29",Madagascar
+2017,SEN,58,"73,28",Sénégal
+2017,DOM,59,"73,24",République dominicaine
+2017,GUY,60,"73,2",Guyana
+2017,NER,61,"72,79",Niger
+2017,SLV,62,"72,76",El Salvador
+2017,KOR,63,"72,39",Corée du Sud
+2017,GEO,64,"72,24",Géorgie
+2017,BIH,65,"72,17",Bosnie-Herzégovine
+2017,SRB,66,"71,95",Serbie
+2017,FJI,67,"71,36",Fidji
+2017,LSO,68,"71,22",Lesotho
+2017,MNG,69,"71,05",Mongolie
+2017,MWI,70,"71,03",Malawi
+2017,HUN,71,"70,99",Hongrie
+2017,JPN,72,"70,56",Japon
+2017,HKG,73,"70,54",Hong-Kong
+2017,HRV,74,"70,41",Croatie
+2017,CTU,75,"70,12",Chypre (partie Nord)
+2017,ALB,76,"70,08",Albanie
+2017,GNB,77,"69,91",Guinée-Bissau
+2017,BEN,78,"69,68",Bénin
+2017,ARM,79,"69,62",Arménie
+2017,MDA,80,"69,59",Moldavie
+2017,CIV,81,"69,58",Côte d'Ivoire
+2017,XKO,82,"69,55",Kosovo
+2017,TZA,83,"69,35",Tanzanie
+2017,BTN,84,"69,27",Bhoutan
+2017,SLE,85,"69,27",Sierra Leone
+2017,TGO,86,"69,25",Togo
+2017,SYC,87,"69,14",Seychelles
+2017,GRC,88,"69,11",Grèce
+2017,KGZ,89,"69,08",Kirghizstan
+2017,PER,90,"69,02",Pérou
+2017,ISR,91,"68,99",Israël
+2017,NIC,92,"68,99",Nicaragua
+2017,MOZ,93,"68,95",Mozambique
+2017,LBR,94,"68,88",Liberia
+2017,KEN,95,"68,8",Kenya
+2017,PAN,96,"67,88",Panama
+2017,TUN,97,"67,78",Tunisie
+2017,TLS,98,"67,18",Timor oriental
+2017,LBN,99,"66,99",Liban
+2017,NPL,100,"66,98",Népal
+2017,GIN,101,"66,85",Guinée
+2017,UKR,102,"66,81",Ukraine
+2017,BRA,103,"66,42",Brésil
+2017,KWT,104,"66,39",Koweït
+2017,ECU,105,"66,36",Équateur
+2017,MNE,106,"66,35",Monténégro
+2017,BOL,107,"66,12",Bolivie
+2017,GAB,108,"65,17",Gabon
+2017,BGR,109,"64,99",Bulgarie
+2017,PRY,110,"64,36",Paraguay
+2017,MKD,111,"64,26",Macédoine du Nord
+2017,UGA,112,"64,06",Ouganda
+2017,CAF,113,"63,88",République centrafricaine
+2017,ZMB,114,"63,52",Zambie
+2017,COG,115,"63,27",Congo
+2017,MLI,116,"61,73",Mali
+2017,MDV,117,"60,7",Maldives
+2017,GTM,118,"60,67",Guatemala
+2017,ARE,119,"60,61",Émirats arabes unis
+2017,AFG,120,"60,54",Afghanistan
+2017,TCD,121,"60,34",Tchad
+2017,NGA,122,"60,31",Nigeria
+2017,QAT,123,"60,17",Qatar
+2017,IDN,124,"60,07",Indonésie
+2017,AGO,125,"59,58",Angola
+2017,OMN,126,"59,54",Oman
+2017,PHL,127,"58,92",Philippines
+2017,ZWE,128,"58,56",Zimbabwe
+2017,COL,129,"58,53",Colombie
+2017,CMR,130,"58,41",Cameroun
+2017,MMR,131,"58,18",Birmanie
+2017,KHM,132,"57,93",Cambodge
+2017,MAR,133,"57,58",Maroc
+2017,DZA,134,"57,17",Algérie
+2017,PSE,135,"57,1",Palestine
+2017,IND,136,"57,06",Inde
+2017,VEN,137,"57,06",Venezuela
+2017,JOR,138,"56,76",Jordanie
+2017,PAK,139,"56,45",Pakistan
+2017,HND,140,"56,25",Honduras
+2017,LKA,141,"55,66",Sri Lanka
+2017,THA,142,"55,31",Thaïlande
+2017,GMB,143,"53,3",Gambie
+2017,MYS,144,"53,11",Malaisie
+2017,SSD,145,"51,84",Soudan du Sud
+2017,BGD,146,"51,64",Bangladesh
+2017,MEX,147,"51,03",Mexique
+2017,RUS,148,"50,55",Russie
+2017,TJK,149,"49,73",Tadjikistan
+2017,ETH,150,"49,66",Éthiopie
+2017,SGP,151,"48,9",Singapour
+2017,SWZ,152,"48,73",Eswatini
+2017,BLR,153,"47,57",Bélarus
+2017,COD,154,"47,33",RD Congo
+2017,TUR,155,"47,02",Turquie
+2017,BRN,156,"46,28",Brunei
+2017,KAZ,157,"45,99",Kazakhstan
+2017,IRQ,158,"45,97",Irak
+2017,RWA,159,"45,89",Rwanda
+2017,BDI,160,"44,22",Burundi
+2017,EGY,161,"44,22",Égypte
+2017,AZE,162,"43,6",Azerbaïdjan
+2017,LBY,163,"43,19",Libye
+2017,BHR,164,"41,12",Bahreïn
+2017,IRN,165,"34,88",Iran
+2017,YEM,166,"34,2",Yémen
+2017,SOM,167,"34,05",Somalie
+2017,SAU,168,"33,98",Arabie saoudite
+2017,UZB,169,"33,89",Ouzbékistan
+2017,LAO,170,"33,59",Laos
+2017,GNQ,171,"33,53",Guinée équatoriale
+2017,DJI,172,"29,46",Djibouti
+2017,CUB,173,"28,25",Cuba
+2017,SDN,174,"26,44",Soudan
+2017,VNM,175,"26,04",Viêt Nam
+2017,CHN,176,"22,34",Chine
+2017,SYR,177,"18,51",Syrie
+2017,TKM,178,"15,81",Turkménistan
+2017,ERI,179,"15,76",Érythrée
+2017,PRK,180,"15,02",Corée du Nord

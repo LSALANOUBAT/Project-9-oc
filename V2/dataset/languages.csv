@@ -1,0 +1,201 @@
+Country,Most used language,ISO3
+Afghanistan,Pashto,AFG
+Albania,Albanian,ALB
+Algeria,Arabic,DZA
+Angola,Portuguese,AGO
+Argentina,Spanish,ARG
+Armenia,Armenian,ARM
+Australia,English,AUS
+Austria,German,AUT
+Azerbaijan,Azerbaijani,AZE
+Bahrain,Arabic,BHR
+Bangladesh,Bengali,BGD
+Belarus,Belarusian,BLR
+Belgium,Dutch,BEL
+Belize,English,BLZ
+Benin,French,BEN
+Bhutan,Dzongkha,BTN
+Bolivia,Spanish,BOL
+Bosnia and Herzegovina,Bosnian,BIH
+Brazil,Portuguese,BRA
+Brunei,Malay,BRN
+Bulgaria,Bulgarian,BGR
+Burkina Faso,French,BFA
+Burma (Myanmar),Burmese,MMR
+Burundi,Kirundi,BDI
+Cambodia,Khmer,KHM
+Cameroon,French,CMR
+Canada,English,CAN
+Central African Republic,French,CAF
+Chad,Arabic,TCD
+Chile,Spanish,CHL
+China,Mandarin,CHN
+Colombia,Spanish,COL
+Comoros,Comorian,COM
+Congo (DRC),French,COD
+Congo (Republic),French,COG
+Costa Rica,Spanish,CRI
+Côte d'Ivoire,French,CIV
+Croatia,Croatian,HRV
+Cuba,Spanish,CUB
+Cyprus,Greek,CYP
+Czech Republic,Czech,CZE
+Denmark,Danish,DNK
+Djibouti,Arabic,DJI
+Dominica,English,DMA
+Dominican Republic,Spanish,DOM
+Ecuador,Spanish,ECU
+Egypt,Arabic,EGY
+El Salvador,Spanish,SLV
+Equatorial Guinea,Spanish,GNQ
+Eritrea,Tigrinya,ERI
+Estonia,Estonian,EST
+Ethiopia,Amharic,ETH
+Fiji,English,FJI
+Finland,Finnish,FIN
+France,French,FRA
+Gabon,French,GAB
+Gambia,English,GMB
+Georgia,Georgian,GEO
+Germany,German,DEU
+Ghana,English,GHA
+Greece,Greek,GRC
+Grenada,English,GRD
+Guatemala,Spanish,GTM
+Guinea,French,GIN
+Guinea-Bissau,Portuguese,GNB
+Guyana,English,GUY
+Haiti,French,HTI
+Honduras,Spanish,HND
+Hungary,Hungarian,HUN
+Iceland,Icelandic,ISL
+India,Hindi,IND
+Indonesia,Indonesian,IDN
+Iran,Persian (Farsi),IRN
+Iraq,Arabic,IRQ
+Ireland,Irish,IRL
+Israel,Hebrew,ISR
+Italy,Italian,ITA
+Jamaica,English,JAM
+Japan,Japanese,JPN
+Jordan,Arabic,JOR
+Kazakhstan,Kazakh,KAZ
+Kenya,Swahili,KEN
+Kiribati,English,KIR
+Kosovo,Albanian,XKX
+Kuwait,Arabic,KWT
+Kyrgyzstan,Kyrgyz,KGZ
+Laos,Lao,LAO
+Latvia,Latvian,LVA
+Lebanon,Arabic,LBN
+Lesotho,Sesotho,LSO
+Liberia,English,LBR
+Libya,Arabic,LBY
+Liechtenstein,German,LIE
+Lithuania,Lithuanian,LTU
+Luxembourg,Luxembourgish,LUX
+Madagascar,Malagasy,MDG
+Malawi,Chichewa,MWI
+Malaysia,Malay,MYS
+Maldives,Dhivehi,MDV
+Mali,French,MLI
+Malta,Maltese,MLT
+Marshall Islands,Marshallese,MHL
+Mauritania,Arabic,MRT
+Mauritius,English,MUS
+Mexico,Spanish,MEX
+Micronesia,English,FSM
+Moldova,Romanian,MDA
+Monaco,French,MCO
+Mongolia,Mongolian,MNG
+Montenegro,Montenegrin,MNE
+Morocco,Arabic,MAR
+Mozambique,Portuguese,MOZ
+Namibia,English,NAM
+Nauru,Nauruan,NRU
+Nepal,Nepali,NPL
+Netherlands,Dutch,NLD
+New Zealand,English,NZL
+Nicaragua,Spanish,NIC
+Niger,French,NER
+Nigeria,English,NGA
+North Korea,Korean,PRK
+North Macedonia,Macedonian,MKD
+Norway,Norwegian,NOR
+Oman,Arabic,OMN
+Pakistan,Urdu,PAK
+Palau,Palauan,PLW
+Palestine,Arabic,PSE
+Panama,Spanish,PAN
+Papua New Guinea,English,PNG
+Paraguay,Spanish,PRY
+Peru,Spanish,PER
+Philippines,Filipino,PHL
+Poland,Polish,POL
+Portugal,Portuguese,PRT
+Qatar,Arabic,QAT
+Romania,Romanian,ROU
+Russia,Russian,RUS
+Rwanda,Kinyarwanda,RWA
+Saint Kitts and Nevis,English,KNA
+Saint Lucia,English,LCA
+Saint Vincent and the Grenadines,English,VCT
+Samoa,Samoan,WSM
+San Marino,Italian,SMR
+Sao Tome and Principe,Portuguese,STP
+Saudi Arabia,Arabic,SAU
+Senegal,French,SEN
+Serbia,Serbian,SRB
+Seychelles,Seychellois Creole,SYC
+Sierra Leone,English,SLE
+Singapore,English,SGP
+Slovakia,Slovak,SVK
+Slovenia,Slovenian,SVN
+Solomon Islands,English,SLB
+Somalia,Somali,SOM
+South Africa,English,ZAF
+South Korea,Korean,KOR
+South Sudan,English,SSD
+Spain,Spanish,ESP
+Sri Lanka,Sinhala,LKA
+Sudan,Arabic,SDN
+Suriname,Dutch,SUR
+Swaziland,Swazi,SWZ
+Sweden,Swedish,SWE
+Switzerland,German,CHE
+Syria,Arabic,SYR
+Taiwan,Mandarin,TWN
+Tajikistan,Tajik,TJK
+Tanzania,Swahili,TZA
+Thailand,Thai,THA
+Timor-Leste (East Timor),Tetum,TLS
+Togo,French,TGO
+Tonga,Tongan,TON
+Trinidad and Tobago,English,TTO
+Tunisia,Arabic,TUN
+Turkey,Turkish,TUR
+Turkmenistan,Turkmen,TKM
+Tuvalu,Tuvaluan,TUV
+Uganda,English,UGA
+Ukraine,Ukrainian,UKR
+United Arab Emirates,Arabic,ARE
+United Kingdom,English,GBR
+United States,English,USA
+Uruguay,Spanish,URY
+Uzbekistan,Uzbek,UZB
+Vanuatu,Bislama,VUT
+Vatican City,Italian,VAT
+Venezuela,Spanish,VEN
+Vietnam,Vietnamese,VNM
+Yemen,Arabic,YEM
+Zambia,English,ZMB
+Zimbabwe,English,ZWE
+Antigua and Barbuda,English,ATG
+Bahamas,English,BHS
+Barbados,English,BRB
+Botswana,Tswana,BWA
+Hong Kong,Cantonese,HKG
+Macao,Cantonese,MAC
+New Caledonia,French,NCL
+Cabo Verde,Portuguese,CPV
+french Polynesia,French,PYF

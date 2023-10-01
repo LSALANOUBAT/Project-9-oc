@@ -1,0 +1,7 @@
+stabilité politique : World press freedom 2017
+country code and coordinates : https://gist.github.com/tadast/8827699
+dispo alimentaire : issu du projet (openclassroom)
+Données éco : https://www.fao.org/faostat/fr/#data/MK
+FAO code def : https://www.fao.org/faostat/fr/#definitions
+Most used language : ChatGPT (la langue choisie est la première parmis celle proposée)
+population : issu du projet (openclassroom)
